@@ -41,7 +41,7 @@ To view the pages locally, follow these steps:
    git clone https://github.com/yourusername/my-web-pages.git
    ```
 
-2. Open the `my_first_page.html` or `bio.html` file in your browser.
+2. Open the `Task8.html` file in your browser.
 
 ## Credits
 
